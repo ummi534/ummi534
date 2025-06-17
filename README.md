@@ -10,7 +10,7 @@
 - 🌱 I’m currently working on: **Garbage Classification using Deep Learning**
 - 👯 I’m looking to collaborate on: **Personal Finance Management System**
 - 💬 Ask me about: `Java`, `Spring Boot`, `React`,  `SQL`
-- 📫 How to reach me: **example@gmail.com**
+- 📫 How to reach me: **umeshaummi75@gmai.com**
 - ⚡ Fun fact: *My code runs better than my cooking 🧑‍🍳*
 
 ---
